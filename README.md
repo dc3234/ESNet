@@ -1,2 +1,2 @@
-# ESNet
-Enhancement and suppression for Salient Object Detectio
+# MRINet
+Multiple refinement and integration network for Salient Object Detection
